@@ -3,9 +3,6 @@ module.exports = {
     description: 'BG front end',
     base: '/vuepress-demo/',
     configureWebpack: {
-        alias: {
-            '@alias': 'path/to/some/dir'
-        }
     },
     themeConfig: {
         nav: [
