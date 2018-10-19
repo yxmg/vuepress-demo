@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Banggood CRM',
     description: 'BG front end',
-    base: '/vuepress-demo/',
+    base: '/vuepress-demo/docs/',
     configureWebpack: {
     },
     themeConfig: {
