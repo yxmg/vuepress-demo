@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Banggood CRM',
     description: 'BG front end',
-    base: '',
+    base: '/vuepress-demo/',
     configureWebpack: {
         alias: {
             '@alias': 'path/to/some/dir'
